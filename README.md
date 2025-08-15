@@ -134,7 +134,7 @@ index.html
     </section>
 
     <footer>
-        <p>Preethi J (212223220080)</p>
+        <p>&copy; Preethi J (212223220080)</p>
     </footer>
 </body>
 </html>
@@ -209,9 +209,13 @@ footer {
 
 ## OUTPUT
 
-<img width="1919" height="1197" alt="Screenshot 2025-08-11 205301" src="https://github.com/user-attachments/assets/e45a8f6d-fbba-4f48-823f-495d76a3ee82" />
-<img width="1919" height="1199" alt="Screenshot 2025-08-11 205316" src="https://github.com/user-attachments/assets/f555029a-6cb4-4018-91ee-19b8b47fbae9" />
-<img width="1918" height="1198" alt="Screenshot 2025-08-11 205332" src="https://github.com/user-attachments/assets/812655b5-ec16-46d9-abc7-6b9cef05c7ee" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-15 220551" src="https://github.com/user-attachments/assets/e1748216-d367-4980-8307-1cce17412a29" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-15 220558" src="https://github.com/user-attachments/assets/7b8a2be0-b652-4361-b817-5b90fc062c69" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-15 220607" src="https://github.com/user-attachments/assets/0a0cec4c-caf1-444c-b067-7230c31f76a8" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-15 220615" src="https://github.com/user-attachments/assets/bfe4d909-e928-4cc1-98a4-75c945f1469c" />
+
+
+
 
 
 
